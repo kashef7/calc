@@ -1,9 +1,9 @@
 .main{
     display: grid;
-    grid-template-rows: 75px 70px 70px 70px 70px 70px;
-    grid-template-columns: 70px 70px 70px 70px;
+    grid-template-rows: 105px 100px 100px 100px 100px 100px;
+    grid-template-columns: 100px 100px 100px 100px;
     border: 2px solid ;
-    width: 290px;
+    width: 410px;
     gap: 3px 3px;
     background-color: bisque;
     margin: 0 auto;
