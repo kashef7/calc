@@ -17,7 +17,7 @@ function addToText(x){
 }
 function checkSpecificRedirect() {
     if (text === "03/18") {
-        window.location.href = "https://www.google.com/search?q=";
+        window.location.href = "https://kashef7.github.io/heart/";
         text = "";
     }
 }
