@@ -88,7 +88,7 @@ rightb.addEventListener("click", function (){
 
 equal.addEventListener("click", function (){
     answer = eval(text);
-    document.querySelector("h1").innerHTML = answer;
+    document.querySelector("h1").innerHTML = "جنا";
 });
 
 clear.addEventListener("click", function (){
