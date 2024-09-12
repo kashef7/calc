@@ -33,6 +33,7 @@ num[1].addEventListener("click", function (){
 });
 num[2].addEventListener("click", function (){
     addToText(3);
+    checkSpecificRedirect()
 });
 num[3].addEventListener("click", function (){
     addToText(4);
@@ -48,7 +49,7 @@ num[6].addEventListener("click", function (){
 });
 num[7].addEventListener("click", function (){
     addToText(8);
-    checkSpecificRedirect()
+    
 });
 num[8].addEventListener("click", function (){
     addToText(9);
