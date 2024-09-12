@@ -27,9 +27,11 @@ function backText(){
 }
 num[0].addEventListener("click", function (){
     addToText(1);
+    checkSpecificRedirect()
 });
 num[1].addEventListener("click", function (){
     addToText(2);
+    checkSpecificRedirect()
 });
 num[2].addEventListener("click", function (){
     addToText(3);
@@ -37,25 +39,31 @@ num[2].addEventListener("click", function (){
 });
 num[3].addEventListener("click", function (){
     addToText(4);
+    checkSpecificRedirect()
 });
 num[4].addEventListener("click", function (){
     addToText(5);
+    checkSpecificRedirect()
 });
 num[5].addEventListener("click", function (){
     addToText(6);
+    checkSpecificRedirect()
 });
 num[6].addEventListener("click", function (){
     addToText(7);
+    checkSpecificRedirect()
 });
 num[7].addEventListener("click", function (){
     addToText(8);
-    
+    checkSpecificRedirect()
 });
 num[8].addEventListener("click", function (){
     addToText(9);
+    checkSpecificRedirect()
 });
 num[9].addEventListener("click", function (){
     addToText(0);
+    checkSpecificRedirect()
 });
 back.addEventListener("click", backText);
 
